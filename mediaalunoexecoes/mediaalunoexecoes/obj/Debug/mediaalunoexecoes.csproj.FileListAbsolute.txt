@@ -1,0 +1,7 @@
+C:\Users\luiz.hlribeiro\source\repos\mediaalunoexecoes\mediaalunoexecoes\bin\Debug\mediaalunoexecoes.exe.config
+C:\Users\luiz.hlribeiro\source\repos\mediaalunoexecoes\mediaalunoexecoes\bin\Debug\mediaalunoexecoes.exe
+C:\Users\luiz.hlribeiro\source\repos\mediaalunoexecoes\mediaalunoexecoes\bin\Debug\mediaalunoexecoes.pdb
+C:\Users\luiz.hlribeiro\source\repos\mediaalunoexecoes\mediaalunoexecoes\obj\Debug\mediaalunoexecoes.csproj.AssemblyReference.cache
+C:\Users\luiz.hlribeiro\source\repos\mediaalunoexecoes\mediaalunoexecoes\obj\Debug\mediaalunoexecoes.csproj.CoreCompileInputs.cache
+C:\Users\luiz.hlribeiro\source\repos\mediaalunoexecoes\mediaalunoexecoes\obj\Debug\mediaalunoexecoes.exe
+C:\Users\luiz.hlribeiro\source\repos\mediaalunoexecoes\mediaalunoexecoes\obj\Debug\mediaalunoexecoes.pdb
